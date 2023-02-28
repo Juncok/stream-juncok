@@ -13,3 +13,5 @@ Aprendendo:
 - (Criar um arquivo com as depêndencias que o projeto tem para que alguém às instale)
 - PiP Freeze (Verificar as depêndencias usadas no projeto)
 - PiP Freeze > requirements.txt (Comando para criação automática do arquivo já com as depêndencias)
+7. PyTest
+- pip install pytest
